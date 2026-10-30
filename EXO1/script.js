@@ -1,3 +1,6 @@
+// f1 a f6 :  les fonctions slide 46, console.log slide 34
+//console.log slide 34
+
 function f1() {
   console.log("Jhon");
 }
