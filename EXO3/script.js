@@ -4,7 +4,7 @@ function B(note) {
 }
 
 function A() {
-    // type complexe tableau d objets slide 41
+    // type complexe tableau d'objets slide 41
     const Students = [
         [1000, "JOHN", "DOE", 14, 5],
         [2000, "BOB", "CARLTON", 7, 1],
